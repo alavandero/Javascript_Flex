@@ -1,0 +1,146 @@
+[
+    {
+      "name": "Risotto de Champiñones",
+      "ingredients": [
+        { "name": "arroz arborio", "quantity": 200, "unit": "gramos" },
+        { "name": "champiñones", "quantity": 150, "unit": "gramos" },
+        { "name": "caldo de pollo", "quantity": 750, "unit": "ml" },
+        { "name": "vino blanco", "quantity": 100, "unit": "ml" },
+        { "name": "queso parmesano", "quantity": 50, "unit": "gramos" },
+        { "name": "mantequilla", "quantity": 30, "unit": "gramos" },
+        { "name": "cebolla", "quantity": 1, "unit": "pieza" }
+      ],
+      "servings": 4,
+      "image": "imagenes/risotto_de_champinones.jpg",
+      "steps": [
+        "Calentar la mantequilla en una sartén.",
+        "Añadir la cebolla y saltear hasta que esté dorada.",
+        "Agregar los champiñones y cocinar hasta que estén tiernos.",
+        "Incorporar el arroz y tostar ligeramente.",
+        "Añadir el vino blanco y dejar que se evapore.",
+        "Añadir el caldo de pollo poco a poco, removiendo constantemente.",
+        "Cocinar hasta que el arroz esté al dente y cremoso.",
+        "Agregar el queso parmesano y servir caliente."
+      ]
+    },
+    {
+      "name": "Risotto de Espárragos",
+      "ingredients": [
+        { "name": "arroz arborio", "quantity": 200, "unit": "gramos" },
+        { "name": "espárragos", "quantity": 150, "unit": "gramos" },
+        { "name": "caldo de verduras", "quantity": 750, "unit": "ml" },
+        { "name": "vino blanco", "quantity": 100, "unit": "ml" },
+        { "name": "queso parmesano", "quantity": 50, "unit": "gramos" },
+        { "name": "mantequilla", "quantity": 30, "unit": "gramos" },
+        { "name": "cebolla", "quantity": 1, "unit": "pieza" }
+      ],
+      "servings": 4,
+      "image": "imagenes/risotto_de_esparragos.jpg",
+      "steps": [
+        "Calentar la mantequilla en una sartén.",
+        "Añadir la cebolla y saltear hasta que esté dorada.",
+        "Agregar los espárragos cortados y cocinar hasta que estén tiernos.",
+        "Incorporar el arroz y tostar ligeramente.",
+        "Añadir el vino blanco y dejar que se evapore.",
+        "Añadir el caldo de verduras poco a poco, removiendo constantemente.",
+        "Cocinar hasta que el arroz esté al dente y cremoso.",
+        "Agregar el queso parmesano y servir caliente."
+      ]
+    },
+    {
+      "name": "Risotto de Calabaza",
+      "ingredients": [
+        { "name": "arroz arborio", "quantity": 200, "unit": "gramos" },
+        { "name": "calabaza", "quantity": 200, "unit": "gramos" },
+        { "name": "caldo de pollo", "quantity": 750, "unit": "ml" },
+        { "name": "vino blanco", "quantity": 100, "unit": "ml" },
+        { "name": "queso parmesano", "quantity": 50, "unit": "gramos" },
+        { "name": "mantequilla", "quantity": 30, "unit": "gramos" },
+        { "name": "cebolla", "quantity": 1, "unit": "pieza" }
+      ],
+      "servings": 4,
+      "image": "imagenes/risotto_de_calabaza.jpg",
+      "steps": [
+        "Calentar la mantequilla en una sartén.",
+        "Añadir la cebolla y saltear hasta que esté dorada.",
+        "Agregar la calabaza cortada en cubos y cocinar hasta que esté tierna.",
+        "Incorporar el arroz y tostar ligeramente.",
+        "Añadir el vino blanco y dejar que se evapore.",
+        "Añadir el caldo de pollo poco a poco, removiendo constantemente.",
+        "Cocinar hasta que el arroz esté al dente y cremoso.",
+        "Agregar el queso parmesano y servir caliente."
+      ]
+    },
+    {
+      "name": "Risotto de Mariscos",
+      "ingredients": [
+        { "name": "arroz arborio", "quantity": 200, "unit": "gramos" },
+        { "name": "mariscos mixtos", "quantity": 200, "unit": "gramos" },
+        { "name": "caldo de pescado", "quantity": 750, "unit": "ml" },
+        { "name": "vino blanco", "quantity": 100, "unit": "ml" },
+        { "name": "queso parmesano", "quantity": 50, "unit": "gramos" },
+        { "name": "mantequilla", "quantity": 30, "unit": "gramos" },
+        { "name": "cebolla", "quantity": 1, "unit": "pieza" }
+      ],
+      "servings": 4,
+      "image": "imagenes/risotto_de_mariscos.jpg",
+      "steps": [
+        "Calentar la mantequilla en una sartén.",
+        "Añadir la cebolla y saltear hasta que esté dorada.",
+        "Agregar los mariscos y cocinar hasta que estén tiernos.",
+        "Incorporar el arroz y tostar ligeramente.",
+        "Añadir el vino blanco y dejar que se evapore.",
+        "Añadir el caldo de pescado poco a poco, removiendo constantemente.",
+        "Cocinar hasta que el arroz esté al dente y cremoso.",
+        "Agregar el queso parmesano y servir caliente."
+      ]
+    },
+    {
+      "name": "Risotto de Espinacas",
+      "ingredients": [
+        { "name": "arroz arborio", "quantity": 200, "unit": "gramos" },
+        { "name": "espinacas frescas", "quantity": 150, "unit": "gramos" },
+        { "name": "caldo de verduras", "quantity": 750, "unit": "ml" },
+        { "name": "vino blanco", "quantity": 100, "unit": "ml" },
+        { "name": "queso parmesano", "quantity": 50, "unit": "gramos" },
+        { "name": "mantequilla", "quantity": 30, "unit": "gramos" },
+        { "name": "cebolla", "quantity": 1, "unit": "pieza" }
+      ],
+      "servings": 4,
+      "image": "imagenes/risotto_de_espinacas.jpg",
+      "steps": [
+        "Calentar la mantequilla en una sartén.",
+        "Añadir la cebolla y saltear hasta que esté dorada.",
+        "Agregar las espinacas y cocinar hasta que estén tiernas.",
+        "Incorporar el arroz y tostar ligeramente.",
+        "Añadir el vino blanco y dejar que se evapore.",
+        "Añadir el caldo de verduras poco a poco, removiendo constantemente.",
+        "Cocinar hasta que el arroz esté al dente y cremoso.",
+        "Agregar el queso parmesano y servir caliente."
+      ]
+    },
+    {
+        "name": "Risotto de Guisantes",
+        "ingredients": [
+            { "name": "arroz arborio", "quantity": 200, "unit": "gramos" },
+            { "name": "guisantes frescos", "quantity": 150, "unit": "gramos" },
+            { "name": "caldo de verduras", "quantity": 750, "unit": "ml" },
+            { "name": "vino blanco", "quantity": 100, "unit": "ml" },
+            { "name": "queso parmesano", "quantity": 50, "unit": "gramos" },
+            { "name": "mantequilla", "quantity": 30, "unit": "gramos" },
+            { "name": "cebolla", "quantity": 1, "unit": "pieza" }
+        ],
+        "servings": 4,
+        "image": "imagenes/risotto_de_guisantes.jpg",
+        "steps": [
+            "Calentar la mantequilla en una sartén.",
+            "Añadir la cebolla y saltear hasta que esté dorada.",
+            "Agregar los guisantes y cocinar hasta que estén tiernos.",
+            "Incorporar el arroz y tostar ligeramente.",
+            "Añadir el vino blanco y dejar que se evapore.",
+            "Añadir el caldo de verduras poco a poco, removiendo constantemente.",
+            "Cocinar hasta que el arroz esté al dente y cremoso.",
+            "Agregar el queso parmesano y servir caliente."
+        ]
+    }
+]   

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Recetas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="calculadora.html">Calculadora</a></li>
+            <li><a href="recetas.html">Recetas</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <h1>Calculadora de Recetas</h1>
+        <label for="recipeSelect">Selecciona una receta:</label>
+        <select id="recipeSelect"></select>
+        <br>
+        <label for="numPeople">Número de personas:</label>
+        <input type="number" id="numPeople" min="1" value="1">
+        <br>
+        <button onclick="calculateIngredients()">Calcular Ingredientes</button>
+        <div id="result"></div>
+        <a href="index.html" class="btn">Volver al Inicio</a>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
