@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora de Recetas</title>
+    <title>Recetas Favoritas</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
@@ -17,19 +17,12 @@
         </nav>
     </header>
     <div class="container">
-        <h1>Calculadora de Recetas</h1>
-        <form id="calculator-form">
-            <label for="recipeSelect">Selecciona una receta:</label>
-            <select id="recipeSelect"></select>
-            <label for="numPeople">Número de personas:</label>
-            <input type="number" id="numPeople" min="1" value="1">
-            <button type="button" onclick="calculateIngredients()">Calcular Ingredientes</button>
-        </form>
-        <div id="result"></div>
+        <h1>Recetas Favoritas</h1>
+        <div id="favoritesList"></div>
         <div class="buttons">
             <a href="index.html" class="btn">Volver al Inicio</a>
         </div>
     </div>
-    <script src="script.js"></script>
+    <script src="favoritos.js"></script>
 </body>
 </html>
